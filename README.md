@@ -5,7 +5,7 @@ Simple tag game with complex rules. It runs on terminal.
 
 This was inspired by [color puzzle](https://undertale.fandom.com/wiki/Multicolor_Tile_Puzzle) in Undertale.
 
-You (chicken, @) have to run away from Cook (C) with keeping off yor hunger by eating seed (.).
+You (chicken, @) have to run away from cook (C) with keeping off yor hunger by eating seed (.).
 
 All effects of tiles are corresponding to those in that game.
 
