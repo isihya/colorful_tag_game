@@ -16,7 +16,7 @@ sudo apt-get install ncurses-doc
 sudo apt-get install libncursesw5-dev
 ```
 
-## Usage(Ubuntu)
+## Usage (Ubuntu)
 
 ```bash
 g++-9 -I /usr/include/ncursesw main.cpp -l ncursesw;
