@@ -1,4 +1,4 @@
-# eat_the_chicken
+# colorful tag game
 Simple tag game with complex rules. It runs on terminal.
 
 ![sample](./sample.png)
